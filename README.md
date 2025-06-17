@@ -11,10 +11,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Valdrecus&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Valdrecus"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valdrecus&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Valdrecus"/>
   </a>
-</div>
-<p align="center">
-  <a href="https://github.com/Valdrecus">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valdrecus&&theme=tokyonight" alt="Valdrecus" />
-  </a>
 </p>
 
