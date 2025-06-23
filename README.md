@@ -27,4 +27,4 @@
 
 ---
 
-> _"Pequeños pasos, grandes logros."_ 🚀
+> _"Pequeños pasos, grandes caidas."_ 🚀
